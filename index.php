@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>MITBACKBENCHERS</title>
 	<script type="text/javascript"></script>
 
 	<meta charset="utf-8">
