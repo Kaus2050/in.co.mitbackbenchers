@@ -32,7 +32,7 @@
                                     <span class="icon-bar"></span>
                                     <span class="icon-bar"></span>
                                 </button>
-                                <a class="navbar-brand" href="Default.aspx">mitBACKBENCHERs</a>
+                                <a class="navbar-brand" href="index.php">mitBACKBENCHERs</a>
                                 <a class="navbar-brand1" href="Default.aspx">।। श्री गणेशाय नमः ।।</a><br />
                                 <a class="navbar-brand1" href="Default.aspx">।। चि. सौ. कां. बायको प्रसन्न ।।</a>
 
@@ -50,7 +50,7 @@
                                         <a href="#3" class="smoothScroll">Team</a>
                                     </li>
                                     <li>
-                                        <a href="register.html">Register</a>
+                                        <a href="index.php">Register</a>
                                     </li>
                                 </ul>
                             </div>
