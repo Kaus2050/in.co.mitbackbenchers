@@ -1,0 +1,118 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    color: orange;
+    background-color: rgba(245, 245, 245, 0.1);
+}
+.init {
+    background-color: rgba(245, 245, 245, 0.1);
+}
+
+div.container-fluid {
+    background-color: rgba(245, 245, 245, 0.1);
+    margin: 10px auto;
+    padding: 10px;
+    width: 750px;
+}
+
+div.container-fluid1 {
+    width: 700px;
+}
+h1 {
+    color: red;
+}
+
+h2 {
+    color: red;
+    border-color: orange;
+    border-radius: 5px;
+}
+
+h4 {
+    color: black;
+    border-color: orange;
+    border-radius: 5px;
+}
+
+p {
+    color: orange;
+    background-color: rgba(245, 245, 245, 0.1);
+}
+
+html {
+    background: url('../images/1.jpg') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+label {
+    color: red;
+    border-color: orange;
+    border-radius: 4px;
+}
+
+#nav {
+    padding: 5px;
+}
+
+#nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+#nav li {
+    float: left;
+    padding: 3px 8px;
+    margin: 0 10px 0 0;
+    list-style-type: none;
+}
+
+    #nav li a {
+        text-decoration: none;
+    }
+
+        #nav li a:hover {
+            text-decoration: underline;
+        }
+
+#wrap {
+    margin: 10px auto;
+    padding: 10px;
+    width: 700px;
+}
+
+
+#navWrap {
+    height: 30px;
+}
+
+
+
+br.clearLeft {
+    clear: left;
+}
+
+.navbar-brand {
+    color: red;
+}
+.navbar-brand1 {
+    pointer-events: none;
+    cursor: default;
+    color: orange;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    text-align: center;
+    margin: auto;
+}
+
+a.navbar-brand1:hover {
+    color: orange;
+    text-decoration: none;
+}
