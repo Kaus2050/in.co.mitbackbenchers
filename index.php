@@ -34,8 +34,7 @@
                                 </button>
                                 <a class="navbar-brand" href="index.php">mitBACKBENCHERs</a>
                                 <a class="navbar-brand1" href="Default.aspx">।। श्री गणेशाय नमः ।।</a><br />
-                                <a class="navbar-brand1" href="Default.aspx">।। चि. सौ. कां. बायको प्रसन्न ।।</a>
-
+                                
                             </div>
                             <!-- Collect the nav links, forms, and other content for toggling -->
                             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
